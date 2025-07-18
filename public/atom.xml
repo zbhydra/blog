@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>幻想吧</title>
+  
+  <subtitle>博客</subtitle>
+  <link href="https://hydrai.cc/blog/atom.xml" rel="self"/>
+  
+  <link href="https://hydrai.cc/blog/"/>
+  <updated>2025-07-18T09:11:17.412Z</updated>
+  <id>https://hydrai.cc/blog/</id>
+  
+  <author>
+    <name>幻想吧</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你好</title>
+    <link href="https://hydrai.cc/blog/2025/07/18/hello-world/"/>
+    <id>https://hydrai.cc/blog/2025/07/18/hello-world/</id>
+    <published>2025-07-18T08:09:22.941Z</published>
+    <updated>2025-07-18T09:11:17.412Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;这是我的第一篇博客，我后面将会在这里记录我的生活记录以及技术见闻&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
