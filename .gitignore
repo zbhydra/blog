@@ -2,6 +2,8 @@
 !.vscode
 !.gitignore
 !.github
+!.pnp.cjs
+!.pnp.loader.mjs
 **/node_modules
 **/.cursorrules
 **/.cursor
