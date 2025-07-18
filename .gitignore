@@ -1,7 +1,9 @@
 .*
 !.vscode
 !.gitignore
+!.github
 **/node_modules
-.cursorrules
-.cursor
-.DS_Store
+**/.cursorrules
+**/.cursor
+**/.DS_Store
+**/.yarn
