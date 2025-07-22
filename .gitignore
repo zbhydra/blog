@@ -9,3 +9,8 @@
 **/.cursor
 **/.DS_Store
 **/.yarn
+public/
+_multiconfig.yml
+.DS_Store
+Thumbs.db
+db.json
